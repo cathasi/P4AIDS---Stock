@@ -1,5 +1,8 @@
 # Stock Market EDA — VN & US
 
+## Notebook session-aligned cho ranking
+
+
 Dự án cung cấp một notebook có thể chạy tuần tự để kiểm tra chất lượng, làm sạch, EDA sáu nhóm chỉ tiêu, phân tích chân trời `T = [1, 5, 10, 20, 30]`, tạo insight theo quy tắc và xuất báo cáo Excel cho 30 mã VN cùng 20 mã US.
 
 ## Cấu trúc

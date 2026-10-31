@@ -1,6 +1,7 @@
 pandas>=2.2
 numpy>=1.26
 matplotlib>=3.8
+lunar-vn>=1.4.0
 xlsxwriter>=3.2
 exchange-calendars>=4.5
 openpyxl>=3.1
